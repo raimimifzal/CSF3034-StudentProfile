@@ -10,6 +10,8 @@ public class StudentProfile {
         System.out.println("Name: Muhammad Raimi Mifzal Bin Mohd Nasir");
         System.out.println("Student ID: S84954");
         System.out.println("Programme: Bachelor of Computer Science with Maritime Informatics (Honours)");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     }
     
 }
